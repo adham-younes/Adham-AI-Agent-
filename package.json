@@ -1,0 +1,13 @@
+{
+  "name": "adham-ai-agent",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev:eve": "eve dev",
+    "build:eve": "eve build",
+    "deploy": "eve deploy"
+  },
+  "dependencies": {
+    "eve": "0.53.1"
+  }
+}
